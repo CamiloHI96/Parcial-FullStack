@@ -1,0 +1,6 @@
+[
+    { "id": 1, "nombre": "Laptop"},
+    { "id": 2, "nombre": "Mouse"},
+    { "id": 3, "nombre": "Teclado" },
+    { "id": 4, "nombre": "Monitor" }
+]
